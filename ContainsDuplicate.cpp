@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class Solution{
+class Soluti1on{
     public:
     bool hasDuplicate(vector<int>& nums)
     {
